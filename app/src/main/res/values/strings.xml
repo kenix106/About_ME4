@@ -98,9 +98,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="aceptar">ACEPTAR</string>
     <string name="portrait">Portrait</string>
-    <string name="portrait">Portrait</string>
     <string name="email">EMAIL</string>
-    <string name="landscape">LANDSCAPE</string>
-    <string name="landscape">LANDSCAPE</string>
     <string name="landscape">LANDSCAPE</string>
 </resources>
