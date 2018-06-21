@@ -16,24 +16,15 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/aceptar"
+        android:text="ACEPTAR"
         android:id="@+id/BTN"
         />
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/nombre"/>
-
-    <android.support.design.widget.TextInputEditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/nopmbre_aqui"/>
-
-    <TextView
-        android:text="@string/portrait"
+        android:text="LANDSCAPE"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
 
 </android.support.v7.widget.LinearLayoutCompat>
 

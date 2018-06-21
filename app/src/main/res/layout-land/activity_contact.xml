@@ -12,8 +12,7 @@
         android:name="cl.evilgenius.about_me4.EmailFragment"
         />
     <TextView
-        android:text="@string/portrait"
+        android:text="@string/landscape"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
-    
 </LinearLayout>

@@ -9,11 +9,10 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/ContactBTN"
-    android:text="@string/email"
+    android:text="EMAIL"
     />
-
     <TextView
-        android:text="@string/portrait"
+        android:text="@string/landscape"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </FrameLayout>
